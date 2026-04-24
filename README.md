@@ -36,4 +36,4 @@ packwiz remove [mod]
 ```
 packwiz refresh
 ```
-Все остальные команды: [https://packwiz.infra.link/reference/commands/packwiz/refresh/](https://packwiz.infra.link/reference/additional-options/)
+Все остальные команды: https://packwiz.infra.link/reference/additional-options/
