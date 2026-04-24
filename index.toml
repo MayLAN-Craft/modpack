@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "8d9370f852b8e656a519bc67719e8842fb33b96ee865a8e968d6b7c70251de72"
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "156e8688835a92ff6f1a199b77c0f9a16f3d5b15fd9c311cd7dd8a5b1b4d8b4d"
 metafile = true
@@ -23,11 +27,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "c7e5c4ae7f25c1954a2327f5dd1edece3ba9dc07039d39bc9beb435e4a18bf82"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "d2b576fa3b996fba4c7fd01ee05539e1952648fe0c066e02c640cedfb138d3dd"
 metafile = true
 
 [[files]]
