@@ -2,11 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9d437802ca0d9e0db214cc8cf2f28b8d30e44461a7e8bf7cdd6205418ffd179e"
+hash = "e8439cca1fafaf0a3ace089723b5eeca749afc9f681eebafb2cf83f246b053d7"
+
+[[files]]
+file = "config/modpack_defaults/config/litematica.json"
+hash = "6696a47c22a54ec66d5cd78342548d53a76ead2240f02d1d3fae6cd59c3c362d"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/default.cfg"
+hash = "416a05278003bc79fd4eec176ea4e16a805cf586a5d18c27c8475f8732dd4f7e"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/profiles/default.cfg"
+hash = "016e2741937230ba95cee59c8ae76eed142df132b196b12335cc5a5637735345"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "308f9879625345447952b83d910e93fe90e433b257e0b0a32c2562607fb0640b"
+hash = "0c3b195f30f2e9d0e39909ac2f8dd5ec35dc4c14b47df7ecb8bb2be41fc005a3"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"

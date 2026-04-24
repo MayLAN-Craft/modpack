@@ -1,6 +1,11 @@
+version:4790
 lang:ru_ru
 guiScale:3
 advancedItemTooltips:true
 joinedFirstServer:true
 skipMultiplayerWarning:true
 tutorialStep:none
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.k
