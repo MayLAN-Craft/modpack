@@ -1,12 +1,12 @@
 name = "MayLAN Modpack"
 author = "jeffors"
-version = "0.1.1"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5dce9203354adc67043da3b69a5ade0417108dd7e81baefc39873cf90e033c7c"
+hash = "1cbbabd0c72abadd93d651292a6831047392f877fc50f94fdf1a04fd6dcd2dda"
 
 [versions]
 fabric = "0.19.2"

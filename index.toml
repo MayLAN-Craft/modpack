@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8d9370f852b8e656a519bc67719e8842fb33b96ee865a8e968d6b7c70251de72"
+hash = "cac6c0edd09d7cc65ea0d270743e514796d16c8171b5977d224e786e5783b11b"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
