@@ -41,6 +41,11 @@ hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
 metafile = true
