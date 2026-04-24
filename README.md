@@ -36,4 +36,4 @@ packwiz remove [mod]
 ```
 packwiz refresh
 ```
-Все остальные команды: https://packwiz.infra.link/reference/additional-options/
+*Все остальные команды доступны в документации на английском языке: https://github.com/MayLAN-Craft/modpack/blob/main/docs/packwiz.md*
