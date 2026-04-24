@@ -17,3 +17,6 @@
 
 # Exclude Packwiz executable
 /packwiz
+
+# Eclude Packwiz docs
+/docs
