@@ -46,6 +46,11 @@ hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "83ce6d277b02b2d55a9ad0d5a5900ef43562f4926e88a81b1ad904aeb63d5074"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
