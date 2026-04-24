@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/borderless-mining-updated.pw.toml"
+hash = "a8ce02eed00f3aed3f53466a4b24cc1ec2ebafa23a85545f0788751a0a5a2b08"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
 metafile = true
