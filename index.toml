@@ -76,6 +76,11 @@ hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "cd028f3e8551c63268306ae679bbfa6d6a5d7a22e29853773bbb31e78100fbbb"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "b11c6298348f1482fe5c3157cced8d0e58e66404b2f3a38ef1177d1d1b89a3aa"
 metafile = true
