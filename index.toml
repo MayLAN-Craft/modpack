@@ -6,6 +6,11 @@ hash = "156e8688835a92ff6f1a199b77c0f9a16f3d5b15fd9c311cd7dd8a5b1b4d8b4d"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "3d368f9b35d7824282bd8f988cfa678c22dcdb82bb26c4565398f01f91820f31"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining-updated.pw.toml"
 hash = "a8ce02eed00f3aed3f53466a4b24cc1ec2ebafa23a85545f0788751a0a5a2b08"
 metafile = true
