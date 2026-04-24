@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "78773495609b64dd539a2db03395128f206b75f3fd48922e803213fb5698e69f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
@@ -28,4 +33,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "47909ee03f4addc160fcaf5dde8a1eb90cadbef00c94758695aea6fbad0162d7"
 metafile = true
