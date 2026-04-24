@@ -116,6 +116,11 @@ hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a73c17487f0b8a1f234b56f5cc61b28ce9413a9ce90859dd18ee2dbd03300a3a"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "cd028f3e8551c63268306ae679bbfa6d6a5d7a22e29853773bbb31e78100fbbb"
 metafile = true
