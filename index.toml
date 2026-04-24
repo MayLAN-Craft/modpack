@@ -180,6 +180,11 @@ hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
 metafile = true
 
 [[files]]
+file = "mods/visualkeys.pw.toml"
+hash = "0e043aa5201610f4b8c7b99638fc418615e041b4a07972e412b1f9a812a54e17"
+metafile = true
+
+[[files]]
 file = "mods/voicemessages.pw.toml"
 hash = "e7f04bcc2df8bf5f85012e3cac42267d01a99d3e1635b494f46a2c99dec754da"
 metafile = true
