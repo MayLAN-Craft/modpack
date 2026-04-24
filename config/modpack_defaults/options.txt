@@ -1,0 +1,6 @@
+lang:ru_ru
+guiScale:3
+advancedItemTooltips:true
+joinedFirstServer:true
+skipMultiplayerWarning:true
+tutorialStep:none

@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cac6c0edd09d7cc65ea0d270743e514796d16c8171b5977d224e786e5783b11b"
+hash = "9d437802ca0d9e0db214cc8cf2f28b8d30e44461a7e8bf7cdd6205418ffd179e"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "308f9879625345447952b83d910e93fe90e433b257e0b0a32c2562607fb0640b"
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
@@ -26,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "448f56f00955f708d4d15ce3a9d94753516646bb2314fcad8c95e80b826eea2c"
+hash = "b05837b7f732face70b56b6ec14ad493238b2f27c09adb373a747fb28386a0f7"
 metafile = true
 
 [[files]]
