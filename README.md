@@ -4,7 +4,7 @@
 
 ## Как пользоваться репозиторием?
 Модпак создаётся при помощи инструмента packwiz.  
-Скачать его можно здесь: [github.com/packwiz/packwiz/actions](github.com/packwiz/packwiz/actions)
+Скачать его можно здесь: https://github.com/packwiz/packwiz/actions
 
 ### Команды для создания конечной сборки:
 * Создать сборку для CurseForge:
