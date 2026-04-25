@@ -156,6 +156,11 @@ hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
 
 [[files]]
+file = "mods/peek.pw.toml"
+hash = "b4cd62e92cab0c8f6f65288214aa523283f045d0e674d084c1075359bb483d75"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
