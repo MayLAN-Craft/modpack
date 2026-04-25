@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e8439cca1fafaf0a3ace089723b5eeca749afc9f681eebafb2cf83f246b053d7"
+hash = "c7c74d8bf151b40204707c08fb80cdc6b0eb5670b90474b5d169db6fbe6a3967"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
@@ -19,6 +19,11 @@ hash = "016e2741937230ba95cee59c8ae76eed142df132b196b12335cc5a5637735345"
 [[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "0c3b195f30f2e9d0e39909ac2f8dd5ec35dc4c14b47df7ecb8bb2be41fc005a3"
+
+[[files]]
+file = "mods/advancements-reloaded.pw.toml"
+hash = "f251b80266e2f8b6fd78858410524c31b1754b8656b192153300b1d11d1014f5"
+metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
